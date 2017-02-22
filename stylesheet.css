@@ -1,0 +1,20 @@
+.header {
+  color: #fff;
+  background: #5F98CD;
+  font-family: Open Sans, Helvetica, sans-serif;
+  line-height: 60px;
+  text-align: center;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.searchInput {
+  right: 55px;
+  width: 200px;
+  height: 34px;
+  border-radius: 17px;
+  background: #fff;
+  padding: 0 17px;
+  font-size: 13px;
+  color: #666;
+  }
